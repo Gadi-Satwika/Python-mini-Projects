@@ -5,20 +5,7 @@ Welcome to my collection of beginner-friendly Python mini-projects! Each project
 ---
 
 ## 📁 Project List
-### 🔢 3. Guess the Number Game (`guess_number_game.py`)
-A number-guessing game where the user must guess the randomly generated number within limited attempts.
 
-- Includes hints for high/low guesses
-- Random number generation using Python's `random` module
-- While loop + conditional logic practice
-
-### 😄 2. Emoji Translator (`emji_translator.py`)
-A simple emoji translator that converts words or phrases into fun emojis.
-
-- Translates predefined keywords to emojis
-- Helps understand dictionary usage and string manipulation
-- Great for fun and experimenting with Unicode
-- 
 ### 🎯 1. Minesweeper Game (`minesweeper.py`)
 A console version of the classic Minesweeper game! Players select cells to reveal while avoiding hidden mines.
 
@@ -26,6 +13,19 @@ A console version of the classic Minesweeper game! Players select cells to revea
 - Uses Python logic to determine safe zones
 - Command-line input-based interaction
 
+### 😄 2. Emoji Translator (`emji_translator.py`)
+A simple emoji translator that converts words or phrases into fun emojis.
+
+- Translates predefined keywords to emojis
+- Helps understand dictionary usage and string manipulation
+- Great for fun and experimenting with Unicode
+  
+### 🔢 3. Guess the Number Game (`guess_number_game.py`)
+A number-guessing game where the user must guess the randomly generated number within limited attempts.
+
+- Includes hints for high/low guesses
+- Random number generation using Python's `random` module
+- While loop + conditional logic practice
 
 ### 👻 4. Hangman (`hangman.py`)
 A classic word-guessing game where the user tries to guess a hidden word before they run out of attempts.
